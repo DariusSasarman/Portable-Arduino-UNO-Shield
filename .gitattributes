@@ -1,0 +1,3 @@
+*.kicad_pcb linguist-language=KiCad
+*.kicad_sch linguist-language=KiCad
+*.kicad_pro linguist-language=KiCad
