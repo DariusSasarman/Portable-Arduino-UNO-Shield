@@ -1,5 +1,5 @@
 # Portable-Arduino-UNO-Shield
-
+![KiCad](https://img.shields.io/badge/Design-KiCad-314CB0?logo=kicad)
 ## What is it?
 
 A shield that you can use to upgrade older Arduino UNO boards such that your projects don't need extra batteries nor cables. Just the one your phone uses!
